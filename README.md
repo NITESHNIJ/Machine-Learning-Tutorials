@@ -3,7 +3,7 @@
 The file contains different machine learning function using most of the popular libraries.
 The tutorial has been divided into different parts as Regression, Classification, etc.
 
-The tutorial is made to explain the basic functionn=ing of the functions pred=sent in popular machine learning libraries.
+The tutorial is made to explain the basic functioning of the functions pred=sent in popular machine learning libraries.
 The libraries used in this tutorial are:
  ->) Numpy
  ->) Pandas
